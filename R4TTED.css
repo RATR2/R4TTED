@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Satisfy);
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;500;600;700&display=swap');
 :root {
-  --app-font: "Satisfy";
+  --app-font: "Karla";
   --app-background: hsl(0,0%,0%);
   --app-foreground: hsl(0,0%,7%);
   --app-card-radius: 8px;
